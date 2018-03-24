@@ -162,6 +162,8 @@
 -define:UNITY_EDITOR_LINUX
 -define:ENABLE_NATIVE_ARRAY_CHECKS
 -define:UNITY_TEAM_LICENSE
+'Assets/Scripts/CameraMovement.cs'
+'Assets/Scripts/EnemyMovement.cs'
 'Assets/Scripts/PlayerMovement.cs'
 -r:'/home/jak/Unity-2017.3.0b1/Editor/Data/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/home/jak/Unity-2017.3.0b1/Editor/Data/Mono/lib/mono/unity/System.Xml.Linq.dll'
